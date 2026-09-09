@@ -1,0 +1,20 @@
+#helps p{
+    background-color: #e6fff9;
+    border: 2px solid #09786f;
+    padding: 2px 10px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: #09786f;
+}
+
+input:focus{
+    outline: none;
+}
+
+select:focus{
+    outline: none;
+}
+
+#helps p{
+    cursor: pointer;
+}
